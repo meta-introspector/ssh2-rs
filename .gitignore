@@ -3,3 +3,4 @@
 libssh2-sys/target/
 /Cargo.lock
 /tests/sshd
+process-repo.log
